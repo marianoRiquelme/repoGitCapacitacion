@@ -1,0 +1,14 @@
+COMANDOS DE GIT
+init
+clone
+status
+checkout 
+add
+commit
+log
+reset
+revert
+merge
+pull
+push 
+
